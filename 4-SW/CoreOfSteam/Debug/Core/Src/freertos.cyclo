@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:107:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:165:6:StartDefaultTask	3
+../Core/Src/freertos.c:247:6:StartTask02	11
+../Core/Src/freertos.c:297:6:StartTask03	9
+../Core/Src/freertos.c:368:13:SD_Card_Test	2
+../Core/Src/freertos.c:399:6:IR_SendByte	3
+../Core/Src/freertos.c:420:6:delay_us	5

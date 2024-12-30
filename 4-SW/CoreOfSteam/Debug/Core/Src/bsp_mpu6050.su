@@ -1,0 +1,7 @@
+../Core/Src/bsp_mpu6050.c:16:9:BSP_MPU6050_ReadReg	40	static
+../Core/Src/bsp_mpu6050.c:23:6:BSP_MPU6050_ReadMultiReg	32	static
+../Core/Src/bsp_mpu6050.c:28:6:BSP_MPU6050_WriteReg	32	static
+../Core/Src/bsp_mpu6050.c:34:6:BSP_MPU6050_WriteMultiReg	32	static
+../Core/Src/bsp_mpu6050.c:40:9:BSP_MPU6050_Read_WHOAMI	8	static
+../Core/Src/bsp_mpu6050.c:45:9:BSP_MPU6050_Init	16	static
+../Core/Src/bsp_mpu6050.c:73:6:BSP_MPU6050_UpdateSensors	24	static

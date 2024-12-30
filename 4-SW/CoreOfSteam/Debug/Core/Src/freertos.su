@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:107:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:165:6:StartDefaultTask	48	static
+../Core/Src/freertos.c:247:6:StartTask02	16	static
+../Core/Src/freertos.c:297:6:StartTask03	24	static
+../Core/Src/freertos.c:368:13:SD_Card_Test	8520	static
+../Core/Src/freertos.c:399:6:IR_SendByte	24	static
+../Core/Src/freertos.c:420:6:delay_us	40	static
