@@ -4,6 +4,9 @@
 以下位置约束无法满足:
 
 
-1) 无法封闭以下运动环: body6 - body4 - body6。
+1) 无法封闭以下运动环: body7 - body4 - body6 - body3 - body7。
+
+
+2) 无法封闭以下运动环: body7 - body4 - body6 - body3 - body7。
 
 
