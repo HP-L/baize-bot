@@ -1,8 +1,6 @@
 
-*** INFO MESSAGE from loop_containment_accel : ***
-	uninitialized contour on surface 24980 
+*** A-LEVEL ERROR in SktModText::updateGraphics() : ***
+	 --- E_ERROR
 
-
-*** INFO MESSAGE from loop_containment_accel : ***
-	uninitialized contour on surface 4865 
-
+*** A-LEVEL ERROR in SktModText::updateGraphics() : ***
+	 --- E_ERROR
